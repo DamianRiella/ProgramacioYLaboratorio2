@@ -1,0 +1,2 @@
+D:\Dr\Clase1\SegundaSolucionClase1\obj\Debug\SegundaSolucionClase1.csprojAssemblyReference.cache
+D:\Dr\Clase1\SegundaSolucionClase1\obj\Debug\SegundaSolucionClase1.csproj.CoreCompileInputs.cache
